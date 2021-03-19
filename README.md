@@ -2,7 +2,9 @@
 
 Aplikasi yang dibuat adalah aplikasi GUI ChatRoom berbasis python, disini user dapat melakukan komunikasi dengan menggunakan alamat server IP yang sama dengan user di dalam sebuah chat room.
 
-Requirement dalam membuka aplikasi : python versi 3 keatas dan sudah di download path pythonnya (untuk path python dapat di download pas melakukan instalasi aplikasi python).
+Requirement dalam membuka aplikasi : 
+1. windows versi 7 keatas
+2. python versi 3 keatas dan sudah di download path pythonnya (untuk path python dapat di download pas melakukan instalasi aplikasi python).
 
 Langkah-langkah membuka aplikasi GUI ChatRoom adalah sebagai berikut:
 1. Buka command prompt (minimal 3 = 1 untuk server, 2 untuk client) dan posisikan ke letak folder aplikasi GUI Chat Room tersebut (misalnya: letak aplikasi GUI Chat Roomnya berada di Desktop sehingga posisikan command prompt ke bagian desktop)
